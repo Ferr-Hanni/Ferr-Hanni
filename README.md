@@ -1,3 +1,6 @@
+Hai! Saya Feri Ferdianto👋
+Saya belajar menjadi Front-End sedikit demi sedikit, dan juga saya murid dari sekolah SMKN 5 Malang
+
 # 💫 About Me:
 🔭 I’m currently working on: small web projects & school assignments<br>🆘 I’m looking for help with: JavaScript logic & best practices<br>🌱 I’m currently learning: HTML, CSS, JavaScript<br>💬 Ask me about: basic web development<br>⚡ Fun fact: I enjoy coding late at night
 
