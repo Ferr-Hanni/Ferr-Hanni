@@ -4,6 +4,8 @@
 # 💫 About Me:
 🔭 I’m currently working on: small web projects & school assignments<br>🆘 I’m looking for help with: JavaScript logic & best practices<br>🌱 I’m currently learning: HTML, CSS, JavaScript<br>⚡ Fun fact: I enjoy coding late at night
 
+![Feri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ferr-Hanni&show_icons=true&theme=tokyonight)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/imnotferrriii?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@haisayamenggunakanwangsa?is_from_webapp=1&sender_device=pc) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/imnotferrriii?t=-vK05511yU-O09l4aoFRNQ&s=09) 
