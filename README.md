@@ -1,5 +1,5 @@
 # Hai! Saya Feri Ferdianto👋
-# Calon Front-End Developer | Siswa SMKN 5 Malang 🚀 Sedang mendalami HTML, CSS, dan JavaScript untuk menciptakan pengalaman web yang interaktif.
+# Pemula Front-End Developer | Siswa SMKN 5 Malang 🚀 Sedang mendalami HTML, CSS, dan JavaScript untuk menciptakan pengalaman web yang interaktif.
 
 # 💫 About Me:
 🔭 I’m currently working on: small web projects & school assignments<br>🆘 I’m looking for help with: JavaScript logic & best practices<br>🌱 I’m currently learning: HTML, CSS, JavaScript<br>⚡ Fun fact: I enjoy coding late at night
