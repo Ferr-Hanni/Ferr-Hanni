@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=12" />
+    <img src="https://skillicons.dev/icons?i=js,php,mysql&perline=12" />
   </a>
 </p>
 
@@ -20,12 +20,12 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=laravel,typescript,react,supabase,postgresql&perline=5" />
+    <img src="https://skillicons.dev/icons?i=laravel,typescript,react,tailwind,supabase,postgresql&perline=8" />
   </a>
 </p>
 
 <p align="center">
-  <em>- Slowly but surely</em>
+  <em>- Slowly but surely — exploring the modern full-stack ecosystem.</em>
 </p>
 
 <h2 align="center"><b>📫 Let's Connect!</b></h2>
