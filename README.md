@@ -1,4 +1,4 @@
-<h1 align="center"><strong>Hi there! I'm Feri 👋</strong></h1>
+<h1 align="center"><strong>Hi there! I'm Feri</strong></h1>
 
 <p align="center"><strong>💻 Aspiring Web Developer & Software Engineer | 🌱 Learn slowly to get the best results |🎵 Music of my life</strong></p>
 
