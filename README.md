@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,postman&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql&perline=12" />
   </a>
 </p>
 
@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://github.com/FerrCodes">
-    <img src="https://skillicons.dev/icons?i=laravel,typescript,react,docker&perline=4" />
+    <img src="https://skillicons.dev/icons?i=laravel,typescript,react,supabase,postgresql&perline=5" />
   </a>
 </p>
 
@@ -34,11 +34,11 @@
     <a href="https://www.instagram.com/imnotferrriii/">
         <img src="https://skillicons.dev/icons?i=instagram" />
     </a>&nbsp;
-    <a href="https://discord.com/users/701465345524891700">
-        <img src="https://skillicons.dev/icons?i=discord" />
-    </a>&nbsp;
     <a href="https://x.com/imnotferrriii">
         <img src="https://skillicons.dev/icons?i=twitter" />
+    </a>&nbsp;
+    <a href="https://discord.com/users/701465345524891700">
+        <img src="https://skillicons.dev/icons?i=discord" />
     </a>
 </p>
 
